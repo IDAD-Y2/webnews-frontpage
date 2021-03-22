@@ -2,8 +2,4 @@
 
 web prototype project
 
-graph TD;
-    Homepage-->ArticleA-->Homepage;
-    Homepage-->ArticleB-->Homepage;
-    Homepage-->ArticleC-->Homepage;
-    Homepage-->ArticleD-->Homepage;
+[![](https://mermaid.ink/img/eyJjb2RlIjoiZ3JhcGggVEQ7XG4gICAgSG9tZXBhZ2UtLT5BcnRpY2xlQS0tPkhvbWVwYWdlO1xuICAgIEhvbWVwYWdlLS0-QXJ0aWNsZUItLT5Ib21lcGFnZTtcbiAgICBIb21lcGFnZS0tPkFydGljbGVDLS0-SG9tZXBhZ2U7XG4gICAgSG9tZXBhZ2UtLT5BcnRpY2xlRC0tPkhvbWVwYWdlOyIsIm1lcm1haWQiOnsidGhlbWUiOiJkZWZhdWx0In0sInVwZGF0ZUVkaXRvciI6ZmFsc2V9)](https://mermaid-js.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiZ3JhcGggVEQ7XG4gICAgSG9tZXBhZ2UtLT5BcnRpY2xlQS0tPkhvbWVwYWdlO1xuICAgIEhvbWVwYWdlLS0-QXJ0aWNsZUItLT5Ib21lcGFnZTtcbiAgICBIb21lcGFnZS0tPkFydGljbGVDLS0-SG9tZXBhZ2U7XG4gICAgSG9tZXBhZ2UtLT5BcnRpY2xlRC0tPkhvbWVwYWdlOyIsIm1lcm1haWQiOnsidGhlbWUiOiJkZWZhdWx0In0sInVwZGF0ZUVkaXRvciI6ZmFsc2V9)
