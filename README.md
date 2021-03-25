@@ -16,7 +16,7 @@ You are designing a homepage for a fictional online news publisher. On this home
 ![](example-cards/cards2.png)
 ↓ Courier International
 ![](example-cards/cards3.png)
-↓ RTBF.be
+↓ elpais.com
 ![](example-cards/cards4.png)
 ↓ elpais.com
 ![](example-cards/cards5.png)
