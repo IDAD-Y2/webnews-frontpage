@@ -10,11 +10,17 @@ You are designing a homepage for a fictional online news publisher. On this home
 
 ## Examples of card / style links:
 
+↓ RTBF.be
 ![](example-cards/cards1.png)
+↓ RTBF.be
 ![](example-cards/cards2.png)
+↓ Courier International
 ![](example-cards/cards3.png)
+↓ RTBF.be
 ![](example-cards/cards4.png)
+↓ elpais.com
 ![](example-cards/cards5.png)
+↓ riotimesonline.com
 ![](example-cards/cards6.png)
 
 
@@ -42,4 +48,4 @@ Display your ability to use typography, structure information, make good, clear 
 
 Thursday 29th April 2021 @ 11AM
 
-Submission through a github / gitlab repository link 
+Submission through a github / gitlab repository link
