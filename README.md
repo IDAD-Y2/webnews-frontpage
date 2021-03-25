@@ -18,10 +18,8 @@ You are designing a homepage for a fictional online news publisher. On this home
 ![](example-cards/cards3.png)
 ↓ elpais.com
 ![](example-cards/cards4.png)
-↓ elpais.com
-![](example-cards/cards5.png)
 ↓ riotimesonline.com
-![](example-cards/cards6.png)
+![](example-cards/cards5.png)
 
 
 Your homepage will showcase and link to the 12 supplied articles (`articles/` folder) in 5 different categories. You are welcome to add more articles to the list, but you must use the 12 supplied articles as the very least. You might find that adding more content and more articles will help designing a better looking news homepage.
