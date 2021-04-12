@@ -6,7 +6,7 @@ web prototype project
 
 ## briefing:
 
-You are designing a homepage for a fictional online news publisher. On this homepage you will display card / preview style links to multiple articles. You should create a hierachy in the articles, displaying some headlines in big, medium importance articles in a secondary size and a third size of article for 'older' or less important news.
+You are designing a homepage for a fictional online news publisher. On this homepage you will display card / preview style links to multiple articles. You should create a hierarchy in the articles, displaying some headlines in big, medium importance articles in a secondary size and a third size of article for 'older' or less important news.
 
 ## Examples of card / style links:
 
@@ -32,7 +32,7 @@ The supplied articles have categories in the filenames. The categories are:
 * Politics
 * Music
 * Art
-* Sicence
+* Science
 
 The articles are supplied in .odt (similar to Word) format, you can use any images from the document, bits of text, and you should reuse the title of the article. Consider also using the name of the author. Links to the original articles are supplied in the documents themselves.
 
